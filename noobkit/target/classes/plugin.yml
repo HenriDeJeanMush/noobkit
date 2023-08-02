@@ -1,0 +1,8 @@
+name: noobkit
+version: '1.0-SNAPSHOT'
+main: unfair.noobkit.Noobkit
+api-version: '1.19'
+commands:
+  kit:
+  givekit:
+    permission: op

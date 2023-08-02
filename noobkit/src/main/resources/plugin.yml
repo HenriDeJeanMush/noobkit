@@ -1,0 +1,8 @@
+name: noobkit
+version: '${project.version}'
+main: unfair.noobkit.Noobkit
+api-version: '1.19'
+commands:
+  kit:
+  givekit:
+    permission: op
